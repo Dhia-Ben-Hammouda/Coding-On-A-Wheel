@@ -1,0 +1,29 @@
+body{
+    background:#1E1E1E;
+    font-family: sans-serif;
+    font-weight: 700;    
+}
+
+h1{
+    color:rgba(255, 255, 255, 0.651);
+    font-family:  sans-serif;
+}
+
+p{
+    color:rgba(255, 255, 255, 0.753);
+}
+
+.accordion{
+    border-radius: 5px;
+    font-size: 20px;
+    
+}
+
+
+
+.panel{
+    display: none;
+    overflow: hidden;
+}
+
+
