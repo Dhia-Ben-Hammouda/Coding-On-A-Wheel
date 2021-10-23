@@ -1,0 +1,24 @@
+*{
+    margin:0;
+    padding:0;
+}
+
+header{
+    background:black;
+    text-align:center;
+}
+
+body{
+    background:linear-gradient(to left,black,green,black);
+    text-align:center;
+}
+
+.image{
+    border:1px solid white;
+    border-radius: 10%;
+    transition: .2s;
+}
+
+.image:hover{
+    transform:scale(1.2);
+}
